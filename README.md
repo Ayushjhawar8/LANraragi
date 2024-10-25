@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/discord/612709831744290847">](https://discord.gg/aRQxtbg)
 
 
-<img src="public/favicon.ico" width="128">  
+<img src="public/favicon.ico" width="128" id="top">  
   
 LANraragi
 ===========
@@ -576,3 +576,11 @@ Merged PRs to this repo(or $5+ donations) are eligible to get a dumb sticker pac
 	<tbody>
 </table>
 <!-- readme: contributors -end -->
+
+---
+
+<div align="center" align-items: center;">
+	<a href="#top">
+            <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+        </a>
+</div>
