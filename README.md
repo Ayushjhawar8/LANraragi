@@ -60,3 +60,8 @@ Open source server for archival of comics/manga, running on Mojolicious + Redis.
 ## Make a PR, get stickers™  
 
 Merged PRs to this repo(or $5+ donations) are eligible to get a dumb sticker pack [shipped on the house.](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__osxt25URTdTUTVBVFRCTjlYWFJLMlEzRTJPUEhEVy4u)  
+
+## Our Contributors 💖
+<!-- Do not manually edit this section! It should get updated using the Github action -->
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
