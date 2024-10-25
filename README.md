@@ -228,12 +228,21 @@ Merged PRs to this repo(or $5+ donations) are eligible to get a dumb sticker pac
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Ayushjhawar8">
+                    <img src="https://avatars.githubusercontent.com/u/111112495?v=4" width="100;" alt="Ayushjhawar8"/>
+                    <br />
+                    <sub><b>Ayushjhawar8</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/HDoujinDownloader">
                     <img src="https://avatars.githubusercontent.com/u/46956787?v=4" width="100;" alt="HDoujinDownloader"/>
                     <br />
                     <sub><b>HDoujinDownloader</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/Utazukin">
                     <img src="https://avatars.githubusercontent.com/u/45130999?v=4" width="100;" alt="Utazukin"/>
@@ -241,8 +250,6 @@ Merged PRs to this repo(or $5+ donations) are eligible to get a dumb sticker pac
                     <sub><b>Utazukin</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Nodja">
                     <img src="https://avatars.githubusercontent.com/u/7379193?v=4" width="100;" alt="Nodja"/>
@@ -278,20 +285,13 @@ Merged PRs to this repo(or $5+ donations) are eligible to get a dumb sticker pac
                     <sub><b>Suika</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/shinji257">
                     <img src="https://avatars.githubusercontent.com/u/261005?v=4" width="100;" alt="shinji257"/>
                     <br />
                     <sub><b>shinji257</b></sub>
-                </a>
-            </td>
-		</tr>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/Ayushjhawar8">
-                    <img src="https://avatars.githubusercontent.com/u/111112495?v=4" width="100;" alt="Ayushjhawar8"/>
-                    <br />
-                    <sub><b>Ayushjhawar8</b></sub>
                 </a>
             </td>
             <td align="center">
